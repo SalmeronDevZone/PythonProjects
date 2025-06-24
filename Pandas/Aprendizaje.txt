@@ -1,0 +1,22 @@
+ Repositorio de Aprendizaje de Pandas
+
+Bienvenid@ a este repositorio dedicado al aprendizaje de Pandas, una de las bibliotecas más potentes de Python para el análisis y manipulación de datos.
+
+Aquí encontrarás ejemplos prácticos, ejercicios y explicaciones paso a paso para que puedas dominar Pandas desde cero.
+¿Qué verás en este repositorio?
+
+    Cómo leer y explorar datos con Pandas (read_csv, .head(), .info(), etc).
+
+    Manipulación de datos: filtrado, ordenamiento, limpieza y transformación.
+
+    Agrupaciones y resúmenes con groupby().
+
+    Manejo de datos faltantes y duplicados.
+
+    Combinación de datasets (merge, join, concat).
+
+    Visualización básica con Pandas + Matplotlib.
+
+Este espacio está pensado para que puedas aprender de forma práctica y progresiva. Ideal si estás empezando en análisis de datos, ciencia de datos o simplemente quieres mejorar tus habilidades con Python.
+
+¡Vamos a por esos datos! 🐼📊
