@@ -1,0 +1,35 @@
+# 🌐 Microsoft Fabric DP-600 - Laboratorios Prácticos
+
+Este repositorio contiene una colección de laboratorios prácticos diseñados para ayudar en la preparación de la certificación **DP-600: Implementing Analytics Solutions Using Microsoft Fabric**.
+
+## 📌 Objetivo
+
+Desarrollar habilidades prácticas con los servicios de **Microsoft Fabric**, incluyendo Data Factory, Data Engineering, Data Science, Data Warehousing, Real-Time Analytics y Power BI, alineado con los objetivos del examen DP-600.
+
+## 🧪 Laboratorios Incluidos
+
+| Módulo | Título | Descripción | Estado |
+|-------|--------|-------------|--------|
+| 01 | Introducción a Microsoft Fabric | Exploración del entorno, workspaces y navegación. | ✅ Completado |
+| 02 | Ingesta de Datos con Dataflows Gen2 | Uso de Dataflows para ingestión de datos desde múltiples fuentes. | ✅ Completado |
+| 03 | Pipelines en Data Factory | Orquestación de flujos de datos mediante pipelines. | ✅ Completado |
+| 04 | Ingeniería de Datos con Lakehouse | Creación de un Lakehouse, ingesta con notebooks, y uso de Delta Tables. | ✅ Completado |
+| 05 | Ciencia de Datos | Exploración con notebooks y experimentación de modelos ML. | 🟡 En progreso |
+| 06 | Almacenamiento de Datos | Uso de Data Warehouse y T-SQL para análisis. | ✅ Completado |
+| 07 | Analítica en Tiempo Real | Eventos, KQL y dashboards en vivo. | 🟡 En progreso |
+| 08 | Visualización con Power BI | Creación de reportes conectados a Lakehouse y Data Warehouse. | ✅ Completado |
+| 09 | Seguridad y Gobernanza | Configuración de permisos, auditoría y Lineage view. | 🔲 Pendiente |
+
+---
+
+## 🛠️ Requisitos
+
+- Una cuenta en [Microsoft Fabric](https://app.fabric.microsoft.com/)
+- Permisos para crear workspaces y Lakehouses
+- Navegador actualizado
+- Conexión a internet estable
+
+---
+
+
+
